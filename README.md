@@ -1,3 +1,3 @@
 # Site_estudio
 
-# Este site foi desenvolvido apenas para treinar html e css, ainda não está finalizado!
+# Este site foi desenvolvido apenas para praticar html e css, ainda não está finalizado!
